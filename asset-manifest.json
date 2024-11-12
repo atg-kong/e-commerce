@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/moviezzz/static/css/main.446cb3c7.css",
+    "main.js": "/moviezzz/static/js/main.8b822f21.js",
+    "static/media/check.png": "/moviezzz/static/media/check.546e4e84e5d555b4ca1e.png",
+    "index.html": "/moviezzz/index.html",
+    "main.446cb3c7.css.map": "/moviezzz/static/css/main.446cb3c7.css.map",
+    "main.8b822f21.js.map": "/moviezzz/static/js/main.8b822f21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.446cb3c7.css",
+    "static/js/main.8b822f21.js"
+  ]
+}
