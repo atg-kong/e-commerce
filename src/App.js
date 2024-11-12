@@ -26,6 +26,7 @@ function App() {
     <Provider store={store}>
       <BrowserRouter>
         <Home/>
+          <Navbar/>
         {isOpen && <Modal message={message}/>}
         <Routes>
           <Route path='/ReactJS-E-commerce' element={<Home/>} />
